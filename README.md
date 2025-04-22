@@ -1,8 +1,8 @@
-### こんにちは！ 👋 / Hello! 👋
-- 👋 Hi, I’m @tugaa360
+### こんにちは / Hello!
+- Hi, I’m @tugaa360
 - I'm living in A Japan.
 
-* どうぞよろしくお願いします！ 😊 / Nice to meet you! 😊
+* どうぞよろしくお願いします / Nice to meet you!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
