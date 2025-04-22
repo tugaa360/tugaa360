@@ -2,6 +2,12 @@
 - 👋 Hi, I’m @tugaa360
 - I'm living in A Japan.
 
+* どうぞよろしくお願いします！ 😊 / Nice to meet you! 😊
+<!---
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 - 👀 I’m interested in ...
 #### 興味があること / Interests
@@ -19,17 +25,6 @@
 GitHubでは、興味のある分野のコードを読んだり、簡単なプロジェクトに挑戦したりしたいです。
 
 On GitHub, I'd like to read code in areas I'm interested in, try out small projects.
-
-* どうぞよろしくお願いします！ 😊 / Nice to meet you! 😊
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-GitHubでは、興味のある分野のコードを読んだり、簡単なプロジェクトに挑戦したり、BluePrince の翻訳にも関われたら嬉しいです。
-
-On GitHub, I'd like to read code in areas I'm interested in, try out small projects, and hopefully get involved in the translation of BluePrince.
 
 
 
